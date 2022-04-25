@@ -1,3 +1,4 @@
+//CometChatAvatar
 import React from 'react';
 
 import {CometChatAvatar} from "../CometChatWorkspace/src/components/Shared/";
