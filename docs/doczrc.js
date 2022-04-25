@@ -1,4 +1,4 @@
-const pkgName = 'docz-theme-extended';
+const pkgName = 'ui-kit';
 
 export default {
   lang: 'en',
