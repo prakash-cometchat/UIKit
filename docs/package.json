@@ -1,24 +1,25 @@
 {
-  "name": "@nejcm/demo",
+  "name": "uikit",
   "version": "2.0.14",
-  "description": "@nejcm/docz-theme-extended documentation and demo.",
+  "description": "documentation and demo.",
   "main": "index.js",
   "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nejcm/docz-theme-extended"
+    "url": "https://github.com/prakash-cometchat/UIKit"
   },
-  "homepage": "https://github.com/nejcm/docz-theme-extended",
+  "homepage": "https://github.com/prakash-cometchat/UIKit",
   "scripts": {
     "test": "echo 'No tests to run.'",
     "clean": "rimraf .docz && docz clean",
     "dev": "npm run develop",
     "develop": "npm run clean && docz dev",
-    "build": "npm run clean && docz build"
+    "build": "npm run clean && docz build && cd .docz && gatsby build"
   },
   "dependencies": {
     "@nejcm/docz-theme-extended": "*",
+    "gatsby": "just-to-fool-cli-never-installed",
     "docz": "2.3.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
