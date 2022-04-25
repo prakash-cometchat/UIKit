@@ -1,46 +1,93 @@
 ---
-name: UI Components
-route: /ui-components
+name: Introduction
+route: /
 ---
 
-**UI Components** are building blocks of the UI Kit. **UI Components** are a set of custom classes specially designed to build a rich chat app. There are different UI Components available in the
-UI Kit Library.
-
-### CometChatUI
-
-**CometChatUI** is an option to launch a fully functional chat application using the UI Kit. In **CometChatUI**  all the **UI Components** are interlinked and work together to launch a fully functional chat on your website/application
-
-### CometChatUserListWithMessages
-
-The `CometChatUserListWithMessages` is a component with a list of users. The component has all the necessary listeners and methods required to display the user's list and shows the set of the messages/chats of the selected user
-
-### CometChatGroupListWithMessages
-
-The `CometChatGroupListWithMessages` is a component with a list of groups. The component has all the necessary listeners and methods required to display the group's list and shows the set of the messages/chats of the selected group
-
-### CometChatConversationListWithMessages
-
-The `CometChatConversationListWithMessages` is a component with a list of recent conversations. The component has all the necessary listeners and methods required to display the recent conversation list and shows the set of the messages/chats of the selected recent conversation
+The CometChat Vue UI Kit is developed to keep developers in mind and aims to reduce development efforts significantly.
 
 
-### CometChatMessages
-
-The `CometChatMessages` is a component with a list of messages/chats and shows the message component header and message composer.
-
-### CometChatUserList
-
-The `CometChatUserList` is a component that displays the list of users available to chat. You can use this component within your app if you wish to display the list of users.
+The UI Kit’s customizable UI components simplify the process of integrating text chat and voice/video calling features to your website or mobile application in a few minutes.
 
 
-| Type | Description | Parameter | 
-| ---- | ---- | ---- | 
-| friendsOnly | Value could be _true_ or _false_\n\nThis property when set to true will return only the friends of the logged-in user. | Optional | 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+1. A text editor. (e.g. Visual Studio Code, Notepad++, Sublime Text, Atom, or VIM)
+2. [Node](https://nodejs.org/en/)
+3. [npm](https://www.npmjs.com/get-npm)
+4. [Vue](https://vuejs.org/)
+
+For installing Vue 2
 
 
-### CometChatGroupList
+For installing Vue 3
 
-The `CometChatGroupList` is a component that displays the list of groups available. You can use this component within your app if you wish to display the list of groups.
 
-### CometChatConversationList
+## Installing Vue UI Kit
 
-You can use the `CometChatConversationList` component to display the list of recent conversations that the logged-in user was a part of.
+
+### Setup
+
+1. Register on CometChat 🔧
+    - To install Vue UI Kit, you need to first register on the CometChat Dashboard. Click here to Sign Up.
+
+2. Get your application keys 🔑
+    1. Create a new app.
+    2. Head over to the QuickStart or API & Auth Keys section and note the App ID, Auth Key, and Region.
+
+3. Add the CometChat dependency 📦
+
+
+### Configure CometChat inside your app
+
+- Import CometChat SDK
+
+
+- Initialize CometChat 🌟 
+
+The init() method initializes the settings required for CometChat.
+We suggest calling the init() method on app startup, preferably in the created() method of the Application class.
+
+
+- Create user
+
+This method takes a `User` object and the `Auth Key` as input parameters and returns the created `User` object if the request is successful.
+
+
+- Login your user 👤 
+
+This method takes UID and Auth Key as input parameters and returns the User object containing all the information of the logged-in user.
+
+
+### Add UI Kit to your project
+
+- Clone this repository.
+
+
+- Copy the cloned repository to your source folder
+
+
+- Copy all the dependencies from package.json of `cometchat-pro-vue-ui-kit` into your project's package.json and install them.
+- We are using [emoji-mart-vue-fast](https://www.npmjs.com/package/emoji-mart-vue-fast) Please install respective library depending on your Vue version
+- 
+    - For Vue2 : `npm install emoji-mart-vue-fast@7.0.7`
+    - For Vue3 : `npm install emoji-mart-vue-fast@8.0.3`
+    - For **Vite** users : `npm install emoji-mart-vue-fast@9.1.2`
+
+
+### Support for Vite
+
+If you are using Vite, please update your `vite.config.js`
+
+### Launch CometChat
+
+Using the `CometChatUI` component from the UI Kit, you can launch a fully functional chat application.
+In this component, all the UI Components are interlinked and work together to launch a fully functional chat on your website/application.
+
+### Usage
+
+
+## Checkout our sample app
+
+Visit our [Vue sample app](https://github.com/cometchat-pro/javascript-vue-chat-app) repo to run the Vue sample app.
