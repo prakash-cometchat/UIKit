@@ -108,9 +108,9 @@ instead of filing an issue on GitHub.
         <sub><b>Nejc Muršič</b></sub>
       </a>
       <br />
-      <a href="https://github.com/nejcm/docz-theme-extended/commits?author=nejcm" title="Code">💻</a> 
-      <a href="https://github.com/nejcm/docz-theme-extended/commits?author=nejcm" title="Documentation">📖</a> 
-      <a href="#infra" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/nejcm/docz-theme-extended/commits?author=nejcm" title="Tests">⚠️</a>
+      <a href="https://github.com/prakash-cometchat/UIKit/commits?author=nejcm" title="Code">💻</a> 
+      <a href="https://github.com/prakash-cometchat/UIKit/commits?author=nejcm" title="Documentation">📖</a> 
+      <a href="#infra" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/prakash-cometchat/UIKit/commits?author=nejcm" title="Tests">⚠️</a>
     </td>
   </tr>
 </table>
@@ -138,14 +138,14 @@ Reach out to us at one of the following places:
 
 [all-contributors-badge]: https://img.shields.io/badge/all_contributors-1-orange.svg
 [all-contributors]: https://github.com/all-contributors/all-contributors
-[bugs]: https://github.com/nejcm/docz-theme-extended/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Acreated-desc
+[bugs]: https://github.com/prakash-cometchat/UIKit/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Acreated-desc
 [build-badge]: https://img.shields.io/travis/com/nejcm/docz-theme-extended.svg
 [build]: https://travis-ci.com/nejcm/docz-theme-extended
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg
-[coc]: https://github.com/nejcm/docz-theme-extended/blob/master/CODE_OF_CONDUCT.md
+[coc]: https://github.com/prakash-cometchat/UIKit/blob/master/CODE_OF_CONDUCT.md
 [coverage-badge]: https://img.shields.io/codecov/c/github/nejcm/docz-theme-extended.svg
 [coverage]: https://codecov.io/github/nejcm/docz-theme-extended
-[demo-link]: https://github.com/nejcm/docz-theme-extended/tree/master/demo
+[demo-link]: https://github.com/prakash-cometchat/UIKit/tree/master/demo
 [docs-link]: https://nejcm.github.io/docz-theme-extended/
 [downloads-badge]: https://img.shields.io/npm/dm/@nejcm/docz-theme-extended.svg
 [email]: nmursi2@gmail.com
@@ -153,12 +153,12 @@ Reach out to us at one of the following places:
 [gatsby-themes-instr]: https://www.gatsbyjs.org/tutorial/using-a-theme/
 [github]: https://github.com/nejcm
 [github-star-badge]: https://img.shields.io/github/stars/nejcm/docz-theme-extended.svg?style=social
-[github-star]: https://github.com/nejcm/docz-theme-extended/stargazers
+[github-star]: https://github.com/prakash-cometchat/UIKit/stargazers
 [github-watch-badge]: https://img.shields.io/github/watchers/nejcm/docz-theme-extended.svg?style=social
-[github-watch]: https://github.com/nejcm/docz-theme-extended/watchers
-[good-first-issue]: https://github.com/nejcm/docz-theme-extended/issues?utf8=✓&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3A"good+first+issue"+
+[github-watch]: https://github.com/prakash-cometchat/UIKit/watchers
+[good-first-issue]: https://github.com/prakash-cometchat/UIKit/issues?utf8=✓&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3A"good+first+issue"+
 [license-badge]: https://img.shields.io/npm/l/@nejcm/docz-theme-extended.svg
-[license]: https://github.com/nejcm/docz-theme-extended/blob/master/LICENSE
+[license]: https://github.com/prakash-cometchat/UIKit/blob/master/LICENSE
 [linkedin]: https://www.linkedin.com/in/nejcm/
 [node]: https://nodejs.org
 [npm]: https://www.npmjs.com/
@@ -168,7 +168,7 @@ Reach out to us at one of the following places:
 [package]: https://www.npmjs.com/package/@nejcm/docz-theme-extended
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 [prs]: http://makeapullrequest.com
-[requests]: https://github.com/nejcm/docz-theme-extended/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc+label%3Aenhancement+is%3Aopen
+[requests]: https://github.com/prakash-cometchat/UIKit/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc+label%3Aenhancement+is%3Aopen
 [screenshot]: https://raw.githubusercontent.com/nejcm/docz-theme-extended/master/screenshot.jpg
 [semantic-release-badge]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-release]: https://github.com/semantic-release/semantic-release

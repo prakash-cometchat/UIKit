@@ -7,13 +7,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nejcm/docz-theme-extended",
+    "url": "https://github.com/prakash-cometchat/UIKit",
     "directory": "theme"
   },
   "bugs": {
     "url": "https://github.com/nejc/docz-theme-extended/issues"
   },
-  "homepage": "https://github.com/nejcm/docz-theme-extended",
+  "homepage": "https://github.com/prakash-cometchat/UIKit",
   "keywords": [
     "gatsby",
     "gatsby-plugin",

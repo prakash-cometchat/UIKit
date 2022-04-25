@@ -9,7 +9,7 @@ export default {
   base: `/${pkgName}/`,
   menu: [
     'Introduction',
-    'Installation',
+    'UI Components',
     { name: 'Components', menu: [] },
     { name: 'UI', menu: [] },
   ],
@@ -37,8 +37,8 @@ export default {
     logo: {
       // src: '/public/assets/logo.svg' // use this line if you want one logo for both color modes
       src: {
-        light: '/public/assets/logo.svg',
-        dark: '/public/assets/logo-dark.svg'
+        light: '/public-data/assets/cometchatlogo.svg',
+        dark: '/public-data/assets/cometchatlogo.svg'
       },
       width: 45,
     },
