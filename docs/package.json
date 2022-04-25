@@ -15,7 +15,7 @@
     "clean": "rimraf .docz && docz clean",
     "dev": "npm run develop",
     "develop": "npm run clean && docz dev",
-    "build": "npm run clean && docz build && cd .docz && gatsby build"
+    "build": "npm run clean && gatsby build"
   },
   "dependencies": {
     "@nejcm/docz-theme-extended": "*",
