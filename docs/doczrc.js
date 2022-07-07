@@ -12,6 +12,11 @@ export default {
     'UI Components',
     { name: 'Components', menu: [] },
     { name: 'UI', menu: [] },
+    {name: 'Shared', menu: [
+      { name: 'Primary', menu: [
+        'Sound Manager'
+      ] },
+    ] },
   ],
   menuDisplayName: {
     UI: 'User Interface',
